@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [Microverse-Capstone-1] <a name="about-project"></a>
 
-**[Portfolio]** takes you through how to build a portfolio webpage starting with mobile screen sizes.
+**[Microverse-Capstone-1]** takes you through how to build a portfolio webpage starting with mobile screen sizes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
