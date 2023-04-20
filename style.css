@@ -14,13 +14,12 @@ html {
 }
 
 body {
-  /* background: #f7f7f9; */
   background: transparent;
   font-family: 'Lato', sans-serif;
 }
 
 .container {
-  width: 75%;
+  width: 88%;
   margin: 0 auto;
 }
 
@@ -686,6 +685,16 @@ footer {
   }
 
   /* MAIN ENDS */
+
+  .summit-1 {
+    height: 70vh;
+    max-height: 70vh;
+  }
+
+  .summit-2 {
+    height: 70vh;
+    max-height: 70vh;
+  }
 
   .show {
     display: none;
