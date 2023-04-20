@@ -63,7 +63,7 @@ This repo only takes you through how to build a portfolio webpage.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://kessie2862.github.io/microverse-capstone-1/)
 
 <!-- WALKTHROUGH -->
 
