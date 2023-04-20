@@ -49,7 +49,8 @@ const speakersDetails = [
     name: 'Kojo Oppong-Nkrumah',
     title: 'MP & Information Minister. Republic of Ghana.',
     speakerImg: 'images/speaker3.jpg',
-    about: 'Kojo Oppong-Nkrumah is a Ghanaian politician and Lawyer.',
+    about:
+      'Kojo Oppong-Nkrumah is a Ghanaian politician and Lawyer. He is the member of parliament for the Ofoase-Ayirebi constituency.',
   },
   {
     id: 4,
