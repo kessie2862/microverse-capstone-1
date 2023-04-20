@@ -135,7 +135,7 @@ If you like this project, follow me to see all my projects in the future
 
 I would like to thank Microverse for giving us a wonderful opportunity to realise our dreams.
 
-Kudos to (https://www.behance.net/adagio07) for the design
+Kudos to [Cindy Shin](https://www.behance.net/adagio07) for the great design.
 
 <!-- LICENSE -->
 
