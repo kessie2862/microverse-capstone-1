@@ -1,3 +1,5 @@
+@import url('http://fonts.cdnfonts.com/css/cocogoose');
+
 /* BASE STYLES */
 * {
   margin: 0;
@@ -172,8 +174,22 @@ main {
 .main-page h1 {
   color: #ec5242;
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 2rem;
+  font-family: 'Cocogoose', sans-serif;
+  background-clip: initial;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-linear-gradient(
+    45deg,
+    #f40001,
+    #ec5242,
+    rgb(255, 64, 0),
+    rgb(255, 123, 0),
+    #a00000,
+    #f65112,
+    #ec5242
+  );
 }
 
 .main-page .description {
@@ -308,6 +324,17 @@ main {
   text-align: center;
 }
 
+.ilc {
+  color: #414246;
+  font-weight: 900;
+  font-size: 1.5rem;
+  margin: 1rem auto 3rem;
+  width: 50%;
+  text-align: center;
+  padding: 2.5rem 2rem;
+  border: 2px solid rgb(224, 223, 223);
+}
+
 /* ABOUT SUB-SECTION ENDS */
 
 /* PARTNER STARTS */
@@ -393,6 +420,7 @@ main {
   line-height: 1.6;
   margin: 0 auto;
   width: 70%;
+  text-align: center;
 }
 
 .program-contents .content .icon-title {
@@ -569,6 +597,10 @@ footer {
     margin: 0 auto;
   }
 
+  .ilc {
+    width: 80%;
+  }
+
   /* SPEAKERS */
 
   .speakers-details {
@@ -588,6 +620,10 @@ footer {
 
   .speakers-details .details .title {
     text-align: center;
+  }
+
+  .about-page hr {
+    display: none;
   }
 
   .speakers-details .details hr {
@@ -653,6 +689,14 @@ footer {
   .hamburger {
     display: block;
     cursor: pointer;
+  }
+
+  .about-page hr {
+    display: none;
+  }
+
+  .ilc {
+    width: 80%;
   }
 
   .hamburger.active .bar:nth-child(2) {
@@ -724,9 +768,15 @@ footer {
     opacity: 0.7;
   }
 
-  .main-page h1 {
-    font-size: 4rem;
+  .about-header {
+    width: 60%;
+    margin: 0 auto;
     line-height: 1.1;
+  }
+
+  .about-page hr {
+    border-bottom: 3px solid #dd4332;
+    width: 3%;
   }
 
   .main-page .description {
@@ -737,7 +787,7 @@ footer {
   .main-page .about-description {
     font-size: 1.1rem;
     width: 70%;
-    margin: 0 auto;
+    margin: 3rem auto;
   }
 
   .program-contents .content .icon-title i {
