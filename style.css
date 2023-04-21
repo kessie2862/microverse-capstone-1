@@ -180,16 +180,17 @@ main {
   background-clip: initial;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-image: -webkit-linear-gradient(
-    45deg,
-    #f40001,
-    #ec5242,
-    rgb(255, 64, 0),
-    rgb(255, 123, 0),
-    #a00000,
-    #f65112,
-    #ec5242
-  );
+  background-image:
+    -webkit-linear-gradient(
+      45deg,
+      #f40001,
+      #ec5242,
+      rgb(255, 64, 0),
+      rgb(255, 123, 0),
+      #a00000,
+      #f65112,
+      #ec5242
+    );
 }
 
 .main-page .description {
