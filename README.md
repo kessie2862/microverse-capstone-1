@@ -63,13 +63,13 @@ This repo only takes you through how to build a portfolio webpage.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://kessie2862.github.io/microverse-capstone-1/)
 
 <!-- WALKTHROUGH -->
 
 ## 🚶‍♂️ Walkthrough <a name="walkthrough"></a>
 
-- [Walkthrough Link]()
+- [Walkthrough Link](https://www.loom.com/share/e826a2a8032d4405b86f7f245e956536)
 
 <!-- GETTING STARTED -->
 
@@ -134,6 +134,8 @@ If you like this project, follow me to see all my projects in the future
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for giving us a wonderful opportunity to realise our dreams.
+
+Kudos to [Cindy Shin](https://www.behance.net/adagio07) for the great design.
 
 <!-- LICENSE -->
 
